@@ -1,0 +1,4 @@
+
+Text summarization is the task of shortening a text document to create a summary that includes the most important information.
+It is a common problem in Natural Language Processing (NLP) and can be achieved using extractive or abstractive methods.
+Extractive summarization selects sentences directly from the document, while abstractive summarization generates new sentences.
