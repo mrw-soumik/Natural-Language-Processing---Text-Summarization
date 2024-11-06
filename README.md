@@ -8,7 +8,7 @@ The aim of this project is to improve information accessibility by generating qu
 
 ## Key Features
 - **Extractive Summarization**: Selects sentences based on word frequency, sentence embeddings, and positional importance.
-- ** Redundancy Control**: Uses semantic similarity to ensure selected sentences are diverse and reduce redundancy in the summary.
+- **Redundancy Control**: Uses semantic similarity to ensure selected sentences are diverse and reduce redundancy in the summary.
 - **Keyword-Based Scoring**: Sentences containing important keywords are prioritized in the summary.
 - **Flexibility**: Adjust the summary length and similarity threshold to control output.
 
