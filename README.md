@@ -1,5 +1,5 @@
 
-# Advanced Text Summarization Tool
+# Text Summarization Tool
 
 This is a Python-based text summarization tool designed to condense lengthy documents into concise summaries using advanced techniques in Natural Language Processing (NLP). It leverages both sentence embeddings and frequency-based scoring to select diverse and informative sentences for the summary.
 
