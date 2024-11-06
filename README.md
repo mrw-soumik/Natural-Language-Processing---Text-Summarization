@@ -1,14 +1,14 @@
 
 # Text Summarization Tool
 
-This is a Python-based text summarization tool designed to condense lengthy documents into concise summaries using advanced techniques in Natural Language Processing (NLP). It leverages both sentence embeddings and frequency-based scoring to select diverse and informative sentences for the summary.
+This is a Python-based text summarization tool designed to condense lengthy documents into concise summaries using  techniques in Natural Language Processing (NLP). It leverages both sentence embeddings and frequency-based scoring to select diverse and informative sentences for the summary.
 
 ## Objective
 The aim of this project is to improve information accessibility by generating quick, effective summaries of news articles, reports, and other documents.
 
 ## Key Features
 - **Extractive Summarization**: Selects sentences based on word frequency, sentence embeddings, and positional importance.
-- **Advanced Redundancy Control**: Uses semantic similarity to ensure selected sentences are diverse and reduce redundancy in the summary.
+- ** Redundancy Control**: Uses semantic similarity to ensure selected sentences are diverse and reduce redundancy in the summary.
 - **Keyword-Based Scoring**: Sentences containing important keywords are prioritized in the summary.
 - **Flexibility**: Adjust the summary length and similarity threshold to control output.
 
@@ -31,11 +31,11 @@ pip install -r requirements.txt
 ### Installation
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/Advanced-Text-Summarization-Tool.git
+    git clone https://github.com/yourusername/-Text-Summarization-Tool.git
     ```
 2. Change into the project directory:
     ```bash
-    cd Advanced-Text-Summarization-Tool
+    cd -Text-Summarization-Tool
     ```
 
 ### Usage
@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 ### Code Overview
 
-- **summarizer.py**: Main code for advanced text summarization, including semantic similarity checks and keyword-based scoring.
+- **summarizer.py**: Main code for text summarization, including semantic similarity checks and keyword-based scoring.
 - **requirements.txt**: Lists all required Python libraries.
 - **data/sample.txt**: A sample text file for testing.
 
